@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/sushant-nayak/rx4free/issues"
   },
-  "homepage": "https://github.com/sushant-nayak/rx4free#readme"
+  "homepage": "https://github.com/sushant-nayak/rx4free#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
 }
